@@ -1,2 +1,2 @@
 # Ayuda22.github.io
-Jogo de RPG inspirado no voleibol
+Um joguinho para notas do COTUCA... apenas.
