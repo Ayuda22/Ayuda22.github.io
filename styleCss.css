@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(161, 31, 31);
+}
+section {
+    text-align: center;
+    margin: auto;
+}
+footer {
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(255, 187, 0);
+    background-color: rgb(31, 5, 0);
+}
+#hub, #control, #play {
+    width: 200px;
+    height: 100px;
+    font: normal 20pt Arial;
+    background-color: rgb(255, 157, 9);
+    border-color: rgb(160, 64, 0);
+}
+#playAgain, #hubBack {
+    width: 200px;
+    height: 40px;
+    font: normal 15pt Arial;
+    background-color: rgb(255, 157, 9);
+    border-color: rgb(160, 64, 0);
+    visibility: hidden;
+}
+#hub {
+    position: absolute;
+    margin-top: -470px;
+    margin-left: -450px;
+}
+#control {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: -450px;
+}
+#play {
+    position: absolute;
+    margin-top: -190px;
+    margin-left: -450px;
+}
+#playAgain {
+    position: absolute;
+    margin-top: -270px;
+    margin-left: -100px;
+}
+#hubBack {
+    position: absolute;
+    margin-top: -220px;
+    margin-left: -100px;
+}
